@@ -365,5 +365,7 @@ VulnerabilityCategory 交叉驗證：`VulnerabilityCategory=AWSManagedReconnaiss
 ---
 
 *報告產生時間：2026-06-03 Taipei Time*
+
 *資料來源：AWS WAFv2 API（us-east-1）+ Amazon CloudWatch Metrics（AWS/WAFV2 Namespace）*
+
 *查詢工具：AWS CLI via Claude Code + AWS API MCP (profile: 104awsdev14-ro)*
